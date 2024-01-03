@@ -128,9 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# bazel generated files
-bazel-*
-
 # bun lock file
 bun.lockb
 *.bin
